@@ -1,0 +1,11 @@
+{
+	"name": "aoc17",
+	"authors": [
+		"Ali Akhtarzada"
+	],
+	"description": "advent of code 2017",
+	"copyright": "Copyright © 2017, Ali Akhtarzada",
+	"license": "MIT",
+	"targetPath": "bin",
+	"stringImportPaths": ["input/"]
+}
