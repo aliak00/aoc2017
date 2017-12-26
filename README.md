@@ -1,6 +1,6 @@
 # Programming with D
 
-Compile time attempt at computing answers
+This repo contains solutions to adventofcode.com puzzles for 2017.
 
 ```osx
 brew install dmd, ldc, dub
